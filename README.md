@@ -1,3 +1,5 @@
+# Archived. Features moved to LibraryManager
+
 # Folder Scanner
 
 A professional, lightweight Mac application for scanning and managing folder structures with SQLite persistence. Built with Python following best practices.
